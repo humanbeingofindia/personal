@@ -1,0 +1,21 @@
+h1 {
+    color: rgb(255, 0, 55);
+    background-color: coral;
+}
+
+p {
+    color: Red;
+}
+
+#p2 {
+    color: darkgreen;
+}
+
+.class_coral {
+    background-color: rgb(29, 17, 13);
+    color: darkorchid;
+}
+
+.box1 {
+    background-color: rgb(60, 212, 60);
+}
